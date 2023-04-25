@@ -58,3 +58,4 @@ completion -C myscript myscript
 
 ## Links
 - [Example script with working completion](https://github.com/davidpeach/.dotfiles/blob/main/bin/.local/bin/zet)
+- [Notes on Bash auto-completion on Linux](https://echorand.me/posts/linux_shell_autocompletion/)
